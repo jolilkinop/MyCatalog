@@ -451,6 +451,7 @@ body{
     top: 55px;
     width: 92%;
     height: 90%;
+    overflow: hidden;
 }
 
 .review-clients_background {
@@ -1195,6 +1196,10 @@ body{
 
     .back-call_mobil {
         font-size: 18px;
+    }
+
+    .review-clients_background {
+        width: 100vh;
     }
 }
 
